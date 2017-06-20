@@ -1,6 +1,6 @@
 //
 //  PlaceExt.swift
-//  Places
+//  PlacesAppModel
 //
 //  Copyright © 2017 Gemini Solutions. All rights reserved.
 //

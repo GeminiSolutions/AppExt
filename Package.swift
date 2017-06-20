@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "AppExt",
+    name: "PlacesAppModel",
     dependencies: [
         .Package(url: "https://github.com/GeminiSolutions/Auth.git", majorVersion: 0),
         .Package(url: "https://github.com/GeminiSolutions/Media.git", majorVersion: 0),

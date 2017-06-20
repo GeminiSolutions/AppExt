@@ -1,6 +1,6 @@
 //
 //  AuthDataExt.swift
-//  PlacesApp
+//  PlacesAppModel
 //
 //  Copyright © 2017 Gemini Solutions. All rights reserved.
 //
